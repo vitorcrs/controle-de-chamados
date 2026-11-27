@@ -1,2 +1,2 @@
-# controle-de-chamados
-Sistema de controle de chamados feito em Python e MySQL
+# Controle de chamados
+Sistema de controle de chamados feito em Python e MySQL. Em desenvolvimento.
